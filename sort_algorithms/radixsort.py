@@ -26,7 +26,3 @@ def radixSort(arr):
 		countingSort(arr,exp) 
 		exp *= 10
 
-arr = [ 170, 45, 75, 90, 802, 24, 2, 66]
-radixSort(arr)
-print(arr)
-

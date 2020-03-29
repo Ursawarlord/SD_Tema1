@@ -21,5 +21,3 @@ def radix_sort_bit(the_list):
         the_list = counting_sort(the_list, bit_index)
     return the_list
 
-A = [12312, 1231, 1, 121, 12]
-

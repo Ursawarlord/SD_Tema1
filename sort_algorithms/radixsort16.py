@@ -19,7 +19,3 @@ def radixSortHex(array):
         for i in range(0, n):
             array[i] = result[i]
         pos += 4
-
-# A = [12312, 1231, 1, 121, 12]
-# radixSortHex(A)
-# print(A)
